@@ -1,14 +1,14 @@
 Welcome!
 This is a TDD project for LeetCode solutions in C.
 
-# What is TDD?
+## What is TDD?
 
 Test-driven development (TDD) is a software development process relying on
 software requirements being converted to test cases before software is fully
 developed, and tracking all software development by repeatedly testing the
 software against all test cases.
 
-# How to run each program?
+## How to run each program?
 
 Programs and test cases are organized with Makefile. Do `make` before running:
 ```bash
@@ -17,7 +17,7 @@ $ ./test
 $ make clean
 ```
 
-# How to contribute to this project?
+## How to contribute to this project?
 
 Firstly, all people are welcomed to contribute to this project.
 
